@@ -1,11 +1,2 @@
 # test-repo
-test C
-test 2
-test 3
-test 4
-test 5
-test 6
-test 7
-test 8
-edit by non-code-owner again again.
 Also edit un-owned file.
